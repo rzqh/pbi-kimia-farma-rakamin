@@ -34,8 +34,6 @@ See [`cleaning-data/rakaminxKF.ipynb`](cleaning-data/rakaminxKF.ipynb) for detai
 Business Performance Dashboard is available at:
 [Looker Studio Dashboard](https://lookerstudio.google.com/reporting/35ec8f0d-34b9-4404-8a49-844d6b260ea9)
 
-See [`dashboard/link.txt`](dashboard/link.txt) for the direct access link.
-
 ## Usage
 
 1. Clone the repository.
@@ -52,4 +50,4 @@ Contributions are welcome. Please follow conventional commit messages and ensure
 
 ## License
 
-This project is
+This project is for educational purposes only.
