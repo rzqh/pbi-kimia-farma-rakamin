@@ -9,10 +9,6 @@ This project analyzes and visualizes business performance data for Kimia Farma u
 - `cleaning-data/`: Jupyter Notebooks and scripts for data preprocessing and analysis.
 - `dashboard/`: Contains dashboard access links and related documentation.
 - `sql/`: View table query for main data to create dashboard
-```
-final-task/bquxjob_5d887272_19905e15b14.csv
-```
-It contains transaction records, branch information, product details, and financial metrics.
 
 ## Data Cleaning & Analysis
 
